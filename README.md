@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tina
+- 👋 Hey! I’m Tina!
 - 👀 I’m interested in all things tech!
 - 🌱 I’m currently working on a game powered by the javascript framework, Phaser.js and revamping my personal website
 - 🎈 Fun fact: My favourite drink - iced matcha latte and I'm physically unable to stick my 👅 out 
