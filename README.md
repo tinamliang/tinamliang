@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tinamliang
+- 👋 Hi, I’m Tina
 - 👀 I’m interested in all things tech!
-- 🌱 I’m currently self-learning python and working on a game powered by the javascript framework, Phaser.js
-- 💞️ I’m looking to collaborate on different projects and initiatives that help others
+- 🌱 I’m currently working on a game powered by the javascript framework, Phaser.js and revamping my personal website
+- 🎈 Fun fact: My favourite drink - iced matcha latte and I'm physically unable to stick my 👅 out 
 - 📫 How to reach me: email - tinamliang@gmail.com
 
 <!---
