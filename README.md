@@ -1,5 +1,5 @@
 ## Hi there! I'm Tina 👋 
-- 🏫 I'm a Junior studying Joint CS/Math at the University of McGill
+- 🏫 I'm a Junior studying a Computer Science major with a minor in math at the University of McGill
 - 👀 I’m interested in all things tech and especially in creating fullstack products
 - 💻 I worked at Google as a STEP intern this past summer.
 - 📫 Open to Summer 2024 internships!
