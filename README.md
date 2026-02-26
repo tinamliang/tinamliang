@@ -1,5 +1,5 @@
 ## Hi there! I'm Tina 👋 
-- 🏫 I'm in my final semester studying Computer Science at McGill University.
+- 🏫 I recently completed my Computer Science degree from McGill University.
 - 👀 I’m interested in all things tech!
 - 💻 I worked at Google as a STEP and SWE intern over three summers.
 
