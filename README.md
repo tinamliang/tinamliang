@@ -1,7 +1,7 @@
 ## Hi there! I'm Tina 👋 
 - 🏫 I recently completed my Computer Science degree from McGill University.
 - 👀 I’m interested in all things tech!
-- 💻 I worked at Google as a STEP and SWE intern over three summers.
+- 💻 Currently working full-time at Google on the Gmail Performance Team.
 
 ## Let's Connect!
 [<img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&labelColor=2867B2" height="25" />](https://www.linkedin.com/in/tina-liang-617406156/)
